@@ -1,0 +1,48 @@
+body
+{
+ font-family: 'Comic Sans MS';
+ background:url(slike/slika1.jpg); 
+}
+
+.list-group-item
+{
+    font-size: 26px;
+}
+
+.btn.btn-success.btn-lg{
+    color: #7d0c0c;
+    background-color: #ffec39;
+    border-color: #4e0404;
+    box-shadow: 0 0 black;
+}
+
+h1 {
+    text-align: center;
+    color: #551616;
+}
+
+.panel-title{
+   color: #4e0404;
+}
+
+.list-group-item>.badge {
+    float: right;
+    color: #4e0404;
+    background-color: #ffec39;
+    
+}
+
+a.list-group-item, button.list-group-item {
+    color: #4e0404;
+}
+
+/*..........................................*/
+
+
+a:hover {
+    cursor: pointer;
+    background-color: yellow;
+}
+
+/*/////////////////////////////////////////////////////////////////////////////////////////////////////////////////*/
+ 
